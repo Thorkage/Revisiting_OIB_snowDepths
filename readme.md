@@ -12,6 +12,7 @@ From OIB the following data products are used :
 1. OIB L1B snow radar echograms (https://nsidc.org/data/irsno1b/versions/2)
 2. OIB L1B ATM Elevation (https://nsidc.org/data/ilatm1b/versions/2)
 3. OIB L4 Quicklook data product (https://nsidc.org/data/nsidc-0708/versions/1)
+   
 A (free) NASA earthdata account is necessary to get the data.
 
 The in-situ measurements can be found on Josh Kings GitHub:
