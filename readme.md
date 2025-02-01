@@ -6,9 +6,9 @@ This repository represents the research I did during my master thesis project (t
 The comparison is based on gridded laser scanner and in-situ snow depth measurements which are then compared with the snow radar estimate of the air--snow and snow--ice interface. Since there are multiple algorithms to retrieve the interfaces (and thus snow depth), these are further compared to the official NSIDC data product. pySnowRadar (https://github.com/kingjml/pySnowRadar) is utilized to implement the CWT (Newman et al., 2014) and PEAK (Jutila et al., 2022) algorithms.
 
 ### Necessary data
-To reproduce the results (or do own experimentation), there are several necessary datasets. For most of them I included a downloading script in /Downloads, which loads the data into /Data.
+To reproduce the results (or do own experimentation), there are several necessary datasets. For most of them I included a downloading script in /Downloading, which loads the data into /Data.
 
-From OIB the following data products are used:
+From OIB the following data products are used (a NASA earthdata account is necessary to get the data):
 1. OIB L1B snow radar echograms (https://nsidc.org/data/irsno1b/versions/2)
 2. OIB L1B ATM Elevation (https://nsidc.org/data/ilatm1b/versions/2)
 3. OIB L4 Quicklook data product (https://nsidc.org/data/nsidc-0708/versions/1)
