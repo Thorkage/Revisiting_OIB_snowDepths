@@ -19,7 +19,7 @@ The in-situ measurements can be found on Josh Kings GitHub:
 1. ECCC Eureka 2014 campaign (https://github.com/kingjml/ECCC-Eureka-2014-Snow-on-Sea-Ice-Campaign)
 2. ECCC Eureka 2016 campaign (https://github.com/kingjml/ECCC-Eureka-2016-OpenData)
 
-For large scale analysis the University of Bremens multi-year ice concentration data is used: https://seaice.uni-bremen.de/ice-type/
+For large scale analysis, the University of Bremens multi-year ice concentration data is used: https://seaice.uni-bremen.de/ice-type/
 
 ### References
 
